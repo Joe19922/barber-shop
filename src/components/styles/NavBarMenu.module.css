@@ -1,0 +1,7 @@
+.NavBarMenuList {
+  list-style: none;
+  padding-top: 20px;
+  & a {
+    font-size: 20px;
+  }
+}
